@@ -1,7 +1,3 @@
-ECE-3430-Laboratories
-===
+###This work is from an embedded computing course at UVA.
 
-###ECE 3430: Intro to Embedded Computing Systems Fall 2015
-
-I took this course in UVA's electrical and computer engineering department. These labs were based around the Texas Instruments LaunchPad
-(the MSP430G2553 specifically) and custom header boards.
+All projects were designed and tested on the MSP430.
